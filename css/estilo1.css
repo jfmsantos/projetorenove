@@ -1,0 +1,277 @@
+.centro{
+	
+}
+body{
+	background-color:#666666;	
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin: 0px auto;
+	width: 1024px;	
+	background-color: #efefef;
+}
+body a{
+	font-family: "arial";
+	font-size: 14px;
+	text-decoration: none;
+	color:#464646;
+	font: bold;
+}
+body img{
+	border:0px;	
+}
+#banner{
+	text-align: center;
+	background:url(../imagens/index_02.jpg);
+	height: 104px;
+}
+#banner a{
+	font-size: 70px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: blue;
+}
+
+#menu_imagens{
+	margin: 0px auto;
+	width: 1024px;	
+	background-color: #666666;
+}
+
+#menu_imagens img{	
+	border:0px;
+}
+#barraStatus{
+	text-align:right;
+	position:relative;
+	font-size: 20px;
+	background-color: transparent;
+}
+#topo{
+	font-family: cursive;
+	font-size: 22px;
+	font-weight:bold;
+	background-image: url("../imagens/menuFundo2.jpg");
+	background-size:100% 100%;	
+	padding: 5px;
+}
+#topoAdmin{
+	font-family: cursive;
+	font-size: 16px;
+	font-weight:bold;
+	background-image: url("../imagens/menuFundo2.jpg");
+	background-size:100% 100%;	
+	padding: 5px;
+}
+
+#espaco{
+	background-color:#666666;
+	
+	}
+#menu_links{
+	position:relative;
+	top:-0px;
+	font-size: 16px;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: right;	
+}
+
+.menuCategorias{
+	width: 100%;
+}
+.coluna1{
+	vertical-align: top;
+	width: 15%;
+	left: 10%;
+	}
+.coluna2{
+	vertical-align: top;
+	height: 90%;
+}
+#tabelaMaior{
+	width: 100%;
+	height: 800px;
+	
+	}
+.coluna3{
+	position:relative;
+	top:63.5px;
+	width:45%;
+	left:%;
+	vertical-align: top;
+}
+.bordaColuna2{
+	height: 220px;
+	border-color: gray;
+	}
+#footer{
+	background-color:#666666;
+}
+
+#footer a{
+	font-family: "arial";
+	font-size: 12px;
+	text-decoration: none;
+	color:#ffffff;	
+}
+
+.tituloColuna{
+	width:100%;
+	background-color:#f0f0f0;
+	color: #464646;	
+}
+.vazio{
+	color: #464646;	
+}
+
+.fotoCarrinho{
+	width:80px;
+	height:80px;	
+}
+
+.linhaProduto{
+	text-align: center;	
+}
+.linhaSubTotal{
+	text-align: right;	
+}
+
+.tamanhoColuna{
+	width:150px;	
+}
+.borda{
+	border:2px dotted #E4E3E3;
+}
+.borda h2{
+	color: #464646;
+	background-color:#f0f0f0;
+}
+.linhaDivisao{
+	border-right: 1px dotted #E4E3E3;
+	border-bottom: 1px dotted #E4E3E3;
+}
+.msgCarrinhoVazio{
+	padding:0;
+	vertical-align:middle;
+	height:140px;
+	font-size:1.45em;
+	text-align:center;
+	font-weight:bold;
+}
+.subTotal{
+	text-align: center;
+	border:1px double;
+}
+.total{
+	text-align: center;
+	background-color: #FF0000;	
+}
+.finalizarPedido{
+	text-align: center;
+	font-weight:bold;
+	
+	font-size:3.45em;
+	background-color:#f0f0f0;
+}
+.alinhamentoLogin{
+	left: 10px	
+}
+.nomeCategoria{
+	text-align:left;
+	font-family: arial;
+	font-size: 19px;
+	font-weight: bold;
+	margin: 10px;
+	color: #ccc;
+}
+.nomeProduto{
+	font-size: 19px;
+	font-weight: bold;
+	color: teal;
+}
+.precoProduto{
+	font-size: 20px;
+	color: red;
+}
+.erroPage{
+	text-align: center;
+	font-size: 30px;
+	color: #464646;
+}
+.esgotado{
+	position:relative; 
+	top: 5px; 
+	left: px;
+	-webkit-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg); 
+	-o-transform: rotate(-10deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
+}
+.bkt{width:99.99%;color:#535252;border:1px solid #e4e3e3;margin-bottom:20px;}
+.bkt thead th{padding:12px 0;text-transform:uppercase;}
+.bkt thead  .col01{text-align:left;padding-left:12px;}
+
+.bkt tbody  .col01{text-align:left;}
+.bkt tbody  .col02, .bkt tbody  .col03, .bkt tbody  .col04, .bkt tbody  .col05,.bkt tbody  .gifts td, .bkt tbody  .warranty td, .bkt tbody  .acomCard td{border-left:1px dotted #E4E3E3;}
+.bkt .bd{font-weight:bold;}
+.bkt .ph{width:130px;text-align:center;padding-bottom:10px;}
+.bkt .ph .photo{width:80px;height:80px;}
+.bkt tbody  .col02,.bkt tbody  .col03,.bkt tbody  .col04,.bkt tbody  .col05{text-align:center;}
+.bkt tbody  .col02,.bkt tbody  .col03,.bkt tbody  .col04,.bkt tbody  .col05{padding:20px 10px 0 5px;}
+.bkt tbody  .col02, .bkt tbody  .col03{width:100px;}
+.bkt tbody  .col04, .bkt tbody  .col05, .bkt tbody  .gf02, .bkt tbody  .gf03{width:110px;white-space:nowrap;text-align:right;font-size:1.1em;}
+.bkt tbody td, .bkt tbody th{vertical-align:top;padding:20px 0  0 0;}
+.bkt tbody  .prod06 .prods  .hproduct{width:150px;margin:0;padding:0;}
+.bkt tbody  tr.prod06{border-top:10px dotted #E4E3E3;overflow:visible;}
+.bkt tbody  .tabProds td{padding-top:0;}
+.bkt tbody .gifts .gf01, .bkt tbody .warranty .wt01{border:none;padding-bottom:10px;}
+.bkt tbody  .prod06 .prods .hproduct  .name{font-weight:normal;}
+.bkt tbody .gifts td, .bkt tbody .warranty td{padding-top:0;}
+.bkt tbody .gifts td{padding-bottom:5px;}
+.bkt tbody .gft .ico{background-position:-56px 0;width:27px;height:18px;margin-right:10px;}
+.bkt tbody .gft{font-size:0.9em;font-weight:normal;}
+.bkt tbody .gft a{color:#666;text-decoration:underline;}
+.bkt tbody .gft input, .bkt tbody .wty input, .bkt tbody .acomCard input{vertical-align:middle;margin:0;}
+.bkt tbody .wty .ico{background-position:-369px -34px;width:25px;height:21px;margin-right:10px;}
+.bkt tbody .wty{font-size:0.9em;font-weight:normal;color:#dd0000;}
+.bkt tbody .wty a{color:#dd0000;text-decoration:underline;}
+.bkt tbody .aCrd .ico{background-position:-345px -34px;width:25px;height:23px;margin:0 9px;}
+.bkt tbody .acomCard a{color:#dd0000;text-decoration:underline;}
+.bkt tbody  .acomCard td{background:#f9e9e9;color:#dd0000;padding-top:5px;padding-bottom:5px;}
+.bkt tbody  .acomCard .ac01{text-transform:uppercase;padding-left:122px;}
+.bkt tbody  .gf02, .bkt tbody  .gf03, .bkt tbody  .wt02, .bkt tbody  .wt03, .bkt tbody  .ac04, .bkt tbody  .ac05{color:#dd0000;text-align:right;padding:20px 10px 0 5px;vertical-align:middle;font-size:1.1em;}
+.bkt tbody  .gf03, .bkt tbody  .wt03, .bkt tbody  .ac05{font-weight:bold;}
+.bkt tbody .col02 input{width:22px;}
+.bkt tbody .col02 a{display:block;color:#030000;font-size:0.9em;text-decoration:underline;margin-bottom:5px}
+.bkt.conf tbody .cont br{display:none;}
+.bkt.conf tbody .cont .dlTime{display:block; color:#AA0303;margin-top:2px;}
+.bkt tbody .lk.btRefresh{width:auto;height:auto;background:none;padding-top:0;}
+.bkt tbody .lk.btRemove{width:auto;height:auto;background:none;padding-top:0;}
+.bkt .dlvDate{background:#f0f0f0;border-bottom:none;}
+.bkt .dlvDate .shDt{display:block;color:#e80003;font-size:1.1em;margin-bottom:3px;}
+.bkt .dlvDate .shVl{color:#e80003;}
+
+.bkt tfoot .rqts{background:#e1e1e1;border:1px solid #FFF;font-size:1.25em;font-weight:bold;margin:0;padding:6px 0;}
+.bkt tfoot .rqts strong{color:#dd0000;}
+.bkt tfoot .rqts a{font-size:0.8em;color:#535252;text-decoration:underline;font-weight:normal;}
+.bkt tfoot .rq .ico{background-position:-160px 0;width:23px;height:24px;margin:5px 5px 0;float:left;}
+.bkt tfoot .rqts input{vertical-align:middle;}
+.bkt tfoot .shpBox p{font-size:1.1em;font-weight:bold;margin:0;padding:15px 0;float:left;}
+.bkt tfoot .shpBox .ico{background-position:-183px 0;width:25px;height:24px;margin:12px 5px 0;float:left;}
+.bkt tfoot .sp{background:#f0f0f0;}
+.bkt tfoot .sp form{border-left:1px solid #FFF;}
+.bkt tfoot .shpBox .calc{overflow:hidden;padding:10px 0 0 12px;}
+.bkt tfoot .tp1, .bkt tfoot .tp3{font-weight:bold;font-size:1.2em;text-transform:uppercase;text-align:right;}
+.bkt tfoot .tp3{border-right:1px solid #E4E3E3;}
+.bkt tfoot .tp3 span{border-right:1px solid #fff;padding:16px 8px;display:block;}
+.bkt tfoot .subtotal{border:1px solid #e4e3e3;}
+.bkt tfoot .subtotal td, .bkt tfoot .subtotal th, .bkt tfoot .desc td, .bkt tfoot .desc th{padding:10px 0;}
+.bkt tfoot .subtotal td, .bkt tfoot .desc td{padding-right:10px;}
+.bkt tfoot .desc td, .bkt tfoot .desc th{border-top:1px solid #E4E3E3;}
+.bkt tfoot .subtotal .tp1, .bkt tfoot .desc .tp1{text-align:right;}
+.bkt tfoot .subtotal td, .bkt tfoot .total td{white-space:nowrap;}
+.bkt tfoot .atte span{display:block;}
+.bkt tfoot .total .ico{background-position:-378px 0;width:17px;height:17px;margin:18px 10px 0 15px;float:left;}
+.bkt tfoot .total .tp2{background:#dd0000;color :#FFF;text-transform:uppercase;font-size:19px;padding-right:10px;text-align:center; font-weight:bold;}
+.bkt tfoot .total th.tp2{text-align:center;padding:5px;}
+.totalGeral {font-size: 20px; background:#dd0000; text-align:center;color :#FFF; font-weight:bold;}
+.bkt .empty td{padding:0;vertical-align:middle;height:140px;font-size:1.45em;text-align:center;}

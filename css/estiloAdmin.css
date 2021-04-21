@@ -1,0 +1,40 @@
+Administrador style
+.adminMenu{
+	color:
+}
+.adminTopo{
+	margin-top: 10px;
+	font-family: arial;
+	text-align:center;
+	font-size: 16px;
+	font-weight:bold;
+	background-image: url("../imagens/menuFundo2.jpg");
+	background-size:100% 100%;
+	text-decoration:underline;
+}
+.adminTopo a{
+	margin: 10;
+	color: white;
+}
+.lista td{
+	border:1px dotted #E4E3E3;
+	border-bottom-color: black;
+}
+.lista tr{
+	border:1px dotted #E4E3E3;
+	border-bottom-color: black;
+}
+.lista th{
+	border:1px dotted #E4E3E3;
+	border-bottom-color: black;
+}
+.submenu {
+	width: 250;
+}
+.submenu td, .submenuLoja{
+	border:1px dotted #E4E3E3;
+	border-color: black;
+}
+.submenu a:LINK{
+	margin-right: 25px;
+}

@@ -1,0 +1,38 @@
+.coluna1 {
+	border: 1px dotted #666666;
+	height: R170px;
+	max-height: 200px;
+	padding-left: 5px;
+	width: 150px;
+}
+.contentText{
+	padding-left: 10em;	
+}
+.contentText, .contentText table {
+  position: relative;
+  padding: 5px 0 59px 0;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+  margin-left: 18px;
+}
+.tabelaCategoria{
+	text-align:left;
+	border: 1px solid #aaaaaa;
+	background-color:e6f2fe;
+	/* width: 135px; */
+	width: 100%;
+}
+.tabelaCategoria th{
+	height: 30;
+}
+.tabelaCategoria a{
+	color: #222222;
+	/* font-family: verdana; */
+	font-size: 11px;
+
+}
+.colunaCategorias{
+	width: 18%;
+	vertical-align: top;
+}

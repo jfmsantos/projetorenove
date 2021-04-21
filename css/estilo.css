@@ -1,0 +1,100 @@
+body{
+	margin: 0;
+	background-image: url(../imagens/bg-general.gif);
+	/* background: #dacce4; */
+	text-align:center;
+	font-family: verdana;
+}	
+body img {
+	border: 0px;
+}
+.tudo {
+	font-family: verdana;
+	margin:0 auto;
+	/* width:890px; */
+	width: 1124;
+	text-align:left;
+}
+a{
+	text-decoration: none;	
+}
+.menuHead {
+	background-image: url(../imagens/fundo_menu_top.jpg);
+}
+.menuTopo a{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: underline;
+}
+.menuTopo {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 14px;
+}
+.banner {
+	background: url(../imagens/index_02.jpg);
+	height: 104px;	
+}
+.banner img{
+	width:400px ;
+	height:94px ;
+}
+.tudoMenuDois{
+/* background-color: dedede; */
+/* height: 20px; */
+}
+.barraStatus{
+	position: absolute;
+	left: 150px;
+}
+.tudoMenuDois a{
+	font-size: 14px;
+	font-weight:normal;
+	color:black;
+}
+.topo{
+	margin: 0;
+	/* font-family: sans-serif; */
+	/* font-size: 13px; */
+	/* font-weight:bold; */
+	background-image: url("../imagens/linha.png");
+}
+.topo a{
+	font-size: 15px;
+	color: #fff;	
+}
+.posicao{
+	position: relative;
+	left: 5px;
+	top: -1px;	
+}
+.fundoAzul{
+	background-image: url("../imagens/linha.png");
+	background-position: 100%;
+	color: white;
+}
+.conteudo{
+	background-color: #fff;	
+}
+.tabelaConteudo{
+	width:100%;
+	height: 600;
+	vertical-align: top;	
+}
+.footer a{
+	/* font-family: arial; */
+	font-size: 12;
+	color: 5a1785;
+}
+.tamanhoColuna2{
+	width:59%;
+	vertical-align: top;	
+}
+.tamanhoColuna3{
+	position: relative;
+	top: -5.5px;
+	vertical-align: top;
+}
+.erroLogin{
+	color: red;	
+}

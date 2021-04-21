@@ -1,0 +1,52 @@
+.borda{
+	border:2px dotted #E4E3E3;
+}
+.borda h2{
+	color: #464646;
+	background-color:#f0f0f0;
+}
+.tituloColuna{
+	width:100%;
+	background-color:#f0f0f0;
+	color: #464646;	
+}
+.tamanhoColuna{
+	width:150px;	
+}
+.vazio{
+	color: #464646;	
+}
+.msgCarrinhoVazio{
+	padding:0;
+	vertical-align:middle;
+	height:140px;
+	font-size:1.45em;
+	text-align:center;
+	font-weight:bold;
+}
+.linhaProduto{
+	text-align: center;	
+}
+.linhaDivisao{
+	border-right: 1px dotted #E4E3E3;
+	border-bottom: 1px dotted #E4E3E3;
+}
+.fotoCarrinho{
+	width:80px;
+	height:80px;	
+}
+.subTotal{
+	text-align: center;
+	border:1px double;
+}
+.total{
+	text-align: center;
+	background-color:#f0f0f0;	
+}
+.finalizarPedido{
+	text-align: center;
+	font-weight:bold;
+	
+	font-size:20px;
+	background-color:#f0f0f0;
+}
