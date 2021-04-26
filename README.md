@@ -30,10 +30,10 @@ LUCIANO LACERDA BUENO  <br />
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Hibernate]()
-- [AJAX]()
-- [jQuery]()
-- [Servlet]()
+- Hibernate
+- AJAX
+- jQuery
+- Servlet
 
 
 ## 🤔 Como contribuir
