@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="Progeto Renove" src="/imagens/BANER.jpg" width="250px" />
+    <img alt="" title="Projeto Renove" src="/imagens/BANER.jpg" width="250px" />
 </h1>
 
 <h4 align="center">
